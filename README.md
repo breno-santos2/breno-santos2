@@ -7,6 +7,14 @@
 
 ---
 
+### 📝 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend.  
+Apaixonado por criar soluções eficientes e aprender novas tecnologias.  
+Busco aplicar meus conhecimentos em projetos desafiadores e crescer na área de tecnologia.
+
+---
+
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
