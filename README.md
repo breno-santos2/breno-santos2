@@ -2,13 +2,13 @@
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35"/> Olá, eu sou o **Breno Santos**
 
-🎓 *Estudante de Análise e Desenvolvimento de Sistemas*  
+🎓 *Estudante de Sistemas de Informação*  
 💻 *Desenvolvedor Backend*
 
 ---
 
 ### 📝 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend.  
+Estudante de Sistemas de Informação e desenvolvedor backend.  
 Apaixonado por criar soluções eficientes e aprender novas tecnologias.  
 Busco aplicar meus conhecimentos em projetos desafiadores e crescer na área de tecnologia.
 
